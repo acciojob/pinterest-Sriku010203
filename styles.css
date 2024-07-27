@@ -4,6 +4,8 @@
 	display:grid;
 	grid-template-columns:1fr 1fr;
 	grid-template-areas:"image","Explore-now";
+	justify-content:flex-end;
+	align-items:start;
 	
 }
 .button{
